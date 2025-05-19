@@ -1,0 +1,15 @@
+Hey Developers,
+This file (intro.txt) gives introduction about my project Flappy Bird Game
+which is made as a practice project and is still under development,
+Programming language used: Python(Intrepreter version 3.9.8)
+Modules used :
+        * random : This module is used to generate random number(int,float) between a range.
+        * sys : used to command or rather connect with system 
+        * pygame: plays audio and display pictures in Game 
+        * pygame.locals: Basic and necessary pygame imports 
+Concepts Used:
+Two important files are required to play the game that are:
+    # development.py (python file): which is consists of the code for flappy bird game
+    # gallery(folder): This folder is consists of games images and audio (building block of game)
+
+     
